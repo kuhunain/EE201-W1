@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a sophomore at the University of Washington majoring in Electrical and Computer Engineering.
+I'm a sophomore at the **University of Washington** majoring in Electrical and Computer Engineering.
 
 ## Hobbies
 
